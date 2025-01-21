@@ -1,0 +1,49 @@
+{
+    "locations": [
+        {
+            "name": "Engen Die Wilgers",
+            "coordinates": {
+                "lat": -25.766718,
+                "long": 28.320077
+            },
+            "image_coordinates": {
+                "x": 1248,
+                "width": 16,
+                "y": 610,
+                "height": 9
+            },
+            "current": false,
+            "zoom": 20
+        },
+        {
+            "name": "MBT",
+            "coordinates": {
+                "lat": -25.783401,
+                "long": 28.263442
+            },
+            "image_coordinates": {
+                "x": 974,
+                "width": 15,
+                "y": 415,
+                "height": 10
+            },
+            "current": false,
+            "zoom": 20
+        },
+        {
+            "name": "Engen Midrand",
+            "coordinates": {
+                "lat": -25.945222,
+                "long": 28.128105
+            },
+            "image_coordinates": {
+                "x": 905,
+                "width": 14,
+                "y": 485,
+                "height": 12
+            },
+            "current": false,
+            "zoom": 20
+        }
+    ]
+}
