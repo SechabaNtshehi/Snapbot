@@ -13,9 +13,9 @@ class MailBot:
     def sendData(self, filepath):
         subject = "Data for day 1"
         body = "This is an email with attachment sent for data pack 0"
-        sender_email = "data.share.agent@gmail.com"
-        receiver_email = "numeralab.main@gmail.com"
-        password = "ffcn izqh wypa hzoz"
+        sender_email = "example.share.agent@domain"
+        receiver_email = "example.main@domain"
+        password = "xxxx xxxx xxxx xxxx"
 
         # Create a multipart message and set headers
         message = MIMEMultipart()

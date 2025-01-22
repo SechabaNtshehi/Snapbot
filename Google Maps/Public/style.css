@@ -1,0 +1,56 @@
+#map {
+	height: 80%;
+	width: 80%;
+	margin: 25px auto;
+}
+
+#form{
+	margin-top: 1%;
+	display: flex;
+
+	flex-direction: column;
+	align-items: center;
+
+}
+
+.formstuff{
+	margin: 0.5%;
+	display: flex;
+
+	flex-direction: column;
+	align-items: center;
+}
+
+.fields{
+	margin: 2%;
+}
+
+.button{
+	padding: 7.5%;
+	background-color: green;
+	color: white;
+	border-radius: 6px;
+	border: 1px solid green;
+	margin: 5px;
+}
+
+.button:hover{
+	background-color: white;
+	color: green;
+}
+
+label{
+	margin-right: 15px;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	display: flex;
+	flex-direction: row;
+	margin: 5%;
+}
